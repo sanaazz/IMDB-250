@@ -1,0 +1,5 @@
+pandas~=1.5.3
+sqlalchemy~=2.0.25
+beautifulsoup4~=4.11.2
+tqdm~=4.64.1
+numpy~=1.24.3
